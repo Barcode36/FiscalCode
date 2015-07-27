@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fiscal Code Calculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="surname_helper">Insert surname here</string>
+    <string name="surname_hint">Surname</string>
+    <string name="name_helper">Insert name here</string>
+    <string name="name_hint">Name</string>
+    <string name="input_error">Please insert all the data</string>
+    <string name="birthplace_hint">Birthplace</string>
+    <string name="birthday_hint">Birthday</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+</resources>

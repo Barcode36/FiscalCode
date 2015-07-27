@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolo Codice Fiscale</string>
+    <string name="surname_helper">Inserisci il cognome</string>
+    <string name="surname_hint">Cognome</string>
+    <string name="name_helper">Inserisci il nome</string>
+    <string name="name_hint">Nome</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="input_error">Per favore inserisci tutti i dati</string>
+    <string name="birthplace_hint">Luogo di nascita</string>
+    <string name="birthday_hint">Data di nascita</string>
+    <string name="male">Maschio</string>
+    <string name="female">Femmina</string>
+    <string name="gender">Genere</string>
+</resources>
